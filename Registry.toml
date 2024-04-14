@@ -4,3 +4,4 @@ repo = "git@github.com:physcxia/ChenRegistry.git"
 description = "Chen Xia's personal Julia registry"
 
 [packages]
+a0f06128-cd74-4043-ac90-c71291fe1646 = { name = "NumericalTools", path = "N/NumericalTools" }
