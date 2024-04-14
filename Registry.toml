@@ -1,0 +1,6 @@
+name = "ChenRegistry"
+uuid = "97cfa15a-2d0d-46d8-bfc9-890e05d47aff"
+repo = "git@github.com:physcxia/ChenRegistry.git"
+description = "Chen Xia's personal Julia registry"
+
+[packages]
