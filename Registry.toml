@@ -1,7 +1,7 @@
 name = "ChenRegistry"
 uuid = "97cfa15a-2d0d-46d8-bfc9-890e05d47aff"
-repo = "git@github.com:physcxia/ChenRegistry.git"
-description = "Chen Xia's personal Julia registry"
+repo = "https://github.com/physcxia/ChenRegistry.git"
+description = "Chen Xia's personal Julia package registry"
 
 [packages]
 a0f06128-cd74-4043-ac90-c71291fe1646 = { name = "NumericalTools", path = "N/NumericalTools" }
