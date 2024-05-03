@@ -6,3 +6,4 @@ description = "Chen Xia's personal Julia package registry"
 [packages]
 48b3a478-c9fa-42f4-b737-e59b1d0562ca = { name = "DarkMatterProfiles", path = "D/DarkMatterProfiles" }
 a0f06128-cd74-4043-ac90-c71291fe1646 = { name = "NumericalTools", path = "N/NumericalTools" }
+df2efd42-2b3d-4a7c-9adc-000ef4355e7c = { name = "BoostedDarkMatter", path = "B/BoostedDarkMatter" }
